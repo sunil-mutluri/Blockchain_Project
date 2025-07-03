@@ -16,7 +16,8 @@ By combining Web3 technologies with health IoT data, this project reimagines pat
 ## 🎥 Demo Video
 
 A video walkthrough showing the full functionality of the DApp: user registration, heart rate monitoring, token rewards, and organization-side management._
-<video src="video1912015755.mp4" controls width="100%"></video> 
+
+[video1912015755](video1912015755.mp4)
 ---
 
 ## 🛠️ Features
