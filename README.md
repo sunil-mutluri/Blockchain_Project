@@ -17,7 +17,7 @@ By combining Web3 technologies with health IoT data, this project reimagines pat
 
 A video walkthrough showing the full functionality of the DApp: user registration, heart rate monitoring, token rewards, and organization-side management._
 
-[video1912015755](video1912015755.mp4)
+<video src="https://github.com/sunil-mutluri/Blockchain_Project/blob/main/video1912015755.mp4"controls width="100%" />
 ---
 
 ## 🛠️ Features
