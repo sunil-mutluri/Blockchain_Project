@@ -129,13 +129,6 @@ MetaMask not connecting	Check if it's installed, correct network selected
 📚 Documentation & Support
 User Manual
 
-Contact support at support@dhrms.io
-
-Join the community forum (link to Discord/Telegram if applicable)
-
-📄 License
-This project is licensed under the MIT License.
-
 🙌 Acknowledgements
 MetaMask for wallet integration
 
